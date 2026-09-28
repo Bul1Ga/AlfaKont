@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Альфа Контекст",
+      "hasCanvas": false,
+      "bodyTextLen": 1315,
+      "bodyTextHash": "3c03aa491b69f52a150b3d5eb78eb8b50b327ac9e798af4d05bd45c5c83d485b",
+      "bodyTextPrefix": "К Альфа Контекст О решении КОРПОРАТИВНО-ИНВЕСТИЦИОННЫЙ БИЗНЕС Но",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Альфа Контекст",
+      "hasCanvas": false,
+      "bodyTextLen": 1315,
+      "bodyTextHash": "3c03aa491b69f52a150b3d5eb78eb8b50b327ac9e798af4d05bd45c5c83d485b",
+      "bodyTextPrefix": "К Альфа Контекст О решении КОРПОРАТИВНО-ИНВЕСТИЦИОННЫЙ БИЗНЕС Но",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
